@@ -1,5 +1,3 @@
-
-//changes
 import React from 'react';
 import './Auth.css';
 
@@ -19,6 +17,10 @@ const Login = () => {
         <button type="submit" className="auth-btn">Login</button>
       </form>
     </div>
+
+
+
+
   );
 };
 
